@@ -11,8 +11,9 @@ Task (1.1): Interpolate time series to increase available data for subsequent mo
 **Explored models and final proposed solution(file): modelling_natural_gas_prices.ipynb**
 
 Approach: 2 models have been implemented and compared
-model 1: auto regressive models with appropriate lags.
-model 2: additive time series modelling of trend(linear) and seasonality(using forier series)
+
+- model 1: auto regressive models with appropriate lags.
+- model 2: additive time series modelling of trend(linear) and seasonality(using forier series)
 
 # Task 2
 
